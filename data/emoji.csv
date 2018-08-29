@@ -62,6 +62,7 @@ baby,1F476
 baby_bottle,1F37C
 baby_chick,1F424
 baby_symbol,1F6BC
+back,1F519
 baggage_claim,1F6C4
 balloon,1F388
 ballot_box_with_check,2611
@@ -91,8 +92,11 @@ bird,1F426
 birthday,1F382
 black_circle,26AB
 black_joker,1F0CF
+black_large_square,2B1B
+black_medium_small_square,25FE
+black_medium_square,25FC
 black_nib,2712
-black_square,25FC
+black_small_square,25AA
 black_square_button,1F532
 blossom,1F33C
 blowfish,1F421
@@ -216,6 +220,7 @@ couplekiss,1F48F
 cow,1F42E
 cow2,1F404
 credit_card,1F4B3
+crescent_moon,1F319
 crocodile,1F40A
 crossed_flags,1F38C
 crown,1F451
@@ -559,6 +564,7 @@ ophiuchus,26CE
 orange_book,1F4D9
 outbox_tray,1F4E4
 ox,1F402
+package,1F4E6
 page_facing_up,1F4C4
 page_with_curl,1F4C3
 pager,1F4DF
@@ -691,6 +697,7 @@ shit,1F4A9
 shoe,1F45F
 shower,1F6BF
 signal_strength,1F4F6
+simple_smile,1F642
 six,0036 20E3
 six_pointed_star,1F52F
 ski,1F3BF
@@ -860,7 +867,10 @@ wheelchair,267F
 white_check_mark,2705
 white_circle,26AA
 white_flower,1F4AE
-white_square,2B1C
+white_large_square,2B1C
+white_medium_small_square,25FD
+white_medium_square,25FB
+white_small_square,25AB
 white_square_button,1F533
 wind_chime,1F390
 wine_glass,1F377
